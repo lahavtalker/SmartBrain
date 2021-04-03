@@ -9,7 +9,7 @@ import Particles from "react-particles-js";
 import Clarifai, { FACE_DETECT_MODEL } from "clarifai";
 
 const app = new Clarifai.App({
-  apiKey: "f1efb1d6b27845338b677a7b42735a84",
+  apiKey: "Your-API-Key-Here",
 });
 
 const particlesOptions = {
